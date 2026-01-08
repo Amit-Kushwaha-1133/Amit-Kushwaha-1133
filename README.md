@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Software Developer Intern  
+- 🔭 Software Developer 
 - 🌱 Currently learning **Next.js**  
 - 👨‍💻 Coding Profiles: [Codolio](https://codolio.com/profile/amit-1133)  
 - 🌐 Portfolio: [Visit Website](https://portfolio-9et2.vercel.app/)  
